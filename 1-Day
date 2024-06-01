@@ -1,0 +1,13 @@
+The web is omnipresent and used more often than ever before, in places where it may not be visible. "The web" encompasses more than just the websites accessed via a browser URL entry. Whether checking email or sending a tweet, this all involves using the internet. This article provides an overview of how the web functions and the technologies involved in web development.
+
+Websites operate by resolving the URL, sending a request to the website's server, parsing the server's response, and rendering the page. The server stores the website code and receives requests from the browser, responding typically with an HTML file that the browser can parse. The domain is translated to an IP address through Domain Name System (DNS) servers, and the browser sends a request to the server's IP address.
+
+Once the IP address is resolved, the browser sends a request to the server using the HTTP or HTTPS protocol. The server then responds with data, typically HTML, that the browser can parse and render. The HTML describes the webpage structure and content, and the browser subsequently displays the page.
+
+HTML only defines the structure of the webpage, not its styling. This is where CSS comes in, adding styling to the website. JavaScript is another programming language used to create dynamic content, such as tabs and overlays. These technologies work together to display webpages with proper structure, styling, and dynamic content.
+
+This process involves two core "sides": server-side and browser-side (or client-side). Server-side programming languages, such as Node.js, PHP, and Python, are used to run on servers. On the other hand, browser-side languages like HTML, CSS, and JavaScript are crucial for structuring, styling, and creating dynamic content on webpages.
+
+Beyond websites, the internet also encompasses APIs that provide specific pieces of data. Mobile apps and webpages send requests to APIs to exchange data without necessarily loading a new page. This "invisible" data exchange occurs behind the scenes, allowing for actions such as signing up for a newsletter without a new page load.
+
+Overall, a good understanding of both server-side and browser-side technologies is essential for anyone interested in becoming a web developer. These technologies work together to enable the functionality and user experience of the web.
